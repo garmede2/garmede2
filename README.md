@@ -1,5 +1,4 @@
-[![슬랙으로 메세지 보내기](https://img.shields.io/badge/Slack-8A2BE2?style=flat-square&logo=slack)](https://spellbinds.slack.com/team/U065ZDFGA5Q)
-[![이메일 보내기](https://img.shields.io/badge/garmede%40spellbinds.io-ea4335?style=flat-square&logo=gmail&labelColor=white)](mailto:garmede@spellbinds.io)
+[![슬랙으로 메세지 보내기](https://img.shields.io/badge/Slack-8A2BE2?style=flat&logo=slack)](https://spellbinds.slack.com/team/U065ZDFGA5Q)
 
 <!---
 - 👋 Hi, I’m @garmede2
